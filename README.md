@@ -8,7 +8,7 @@
 ✨ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity  
 ⚡ Check out my **Projects** on GitHub  
 🌱 Learning new technologies like **Artifical Intelligence**, **Python**, and **Cloud Computing**  
-📫 How to reach me: Let's connect via [LinkedIn](https://www.linkedin.com/in/deepti-gupta-9138/)  
+📫 How to reach me: Let's connect via [LinkedIn](www.linkedin.com/in/deepti-gupta-775736289)  
 👯 I am always open to collaborating on exciting **open-source, web development** projects or **artificial intelligence** initiatives  
 
 ---
