@@ -1,6 +1,6 @@
 # Hi there, I'm Deepti Gupta! 👋
 
-[**LinkedIn**](https://www.linkedin.com/in/deepti-gupta-9138/) • [**GitHub**](https://github.com/Deeptig9138) • [**Contact Me**](mailto:deeptigupta9138@gmail.com)
+[**LinkedIn**](www.linkedin.com/in/deepti-gupta-775736289) • [**GitHub**](https://github.com/Deeptig9138) • [**Contact Me**](mailto:deeptigupta9138@gmail.com)
 
 ---
 
@@ -57,7 +57,7 @@ User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk
 
 I’m always open to exciting collaboration opportunities in **software development** and **cybersecurity**. Let’s build something great together!  
 📧 Feel free to reach out: (mailto:deeptigupta9138@gmail.com)
-📧 Feel free to reach out: (linkedin:[deeptigupta9138@gmail.com](https://www.linkedin.com/in/deepti-gupta-9138/))
+📧 Feel free to reach out: (linkedin:www.linkedin.com/in/deepti-gupta-775736289)
 
 ⭐️ **Show some love by starring my repositories!**
 
