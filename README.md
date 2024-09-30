@@ -34,7 +34,7 @@
 
 ✨ [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System) | Security project using AWS  
 ✨ [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test) | A basic project to increase typing speed  
-✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Simple-Python-Calculator) | A basic calculator built with Python 
+✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator) | A basic calculator built with Python 
 
 ---
 
