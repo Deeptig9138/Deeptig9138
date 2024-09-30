@@ -41,8 +41,6 @@ User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk
 
 ## 📊 **This Week I Spent My Time On**
 
-🕑 Time Zone: Asia/Surat
-
 💬 Programming Languages:  
 - Python: 60%  
 - JavaScript: 30%  
