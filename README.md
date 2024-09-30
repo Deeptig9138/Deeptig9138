@@ -17,7 +17,7 @@
 
 - **Languages**: Python, JavaScript, C++, HTML, CSS, Java, C
 - **Frameworks and Libraries**: Numpy
-- **Tools and Platforms**: AWS, Docker, Git, GitHub
+- **Tools and Platforms**: AWS, Git, GitHub
 - **Operating Systems**: Windows, Linux
 - **Certifications**: Python Essentials, Google AI Essentials, Google Cybersecurity, Microsoft Azure AI Fundamentals: AI Overview, Introduction to CIP, User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk, Fortinet Certified Associate in Cybersecurity, Flipkart GRID 6.0 - Software Development Track, Artificial Intelligence Fundamentals, TATA Crucible Campus Quiz 2024, Secure Storage Associate, Email Security Associate.
 
@@ -32,9 +32,9 @@
 
 ## 📚 **Recent Projects / Activity**
 
-✨ [**Cloud Intrusion Detection System**](#) | Security project using AWS  
-✨ [**Speed Typing Test**](#) | A basic project to increase typing speed  
-✨ [**Simple Python Calculator**](#) | A basic calculator built with Python 
+✨ [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud-Intrusion-Detection-System) | Security project using AWS  
+✨ [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test) | A basic project to increase typing speed  
+✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Simple-Python-Calculator) | A basic calculator built with Python 
 
 ---
 
@@ -57,5 +57,6 @@ I’m always open to exciting collaboration opportunities in **software developm
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)
 
 ⭐️ **Show some love by starring my repositories!**
+
 
 
