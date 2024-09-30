@@ -1,32 +1,63 @@
-# 👋 Hi, I'm Deepti Gupta!
+# Hi there, I'm Deepti Gupta! 👋
 
-Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in problem-solving, data structures, algorithms, and cloud computing. I'm always looking to learn, grow, and contribute to the tech community. 
-
-## 🚀 About Me
-- 🎓 Currently a student, constantly honing my skills in software engineering.
-- 💻 I enjoy participating in coding challenges, working on open-source projects, and exploring cloud technologies.
-- 🌱 Currently learning: **Data Structures, Algorithms, and Cloud Security**.
-- ⚡ Fun fact: I love solving complex coding problems and finding efficient solutions to optimize performance!
-
-## 💡 My Skill Set
-- **Programming Languages**: Python, C++, Java, HTML, CSS
-- **Technologies**: AWS, CloudTrail, Boto3, REST APIs
-- **Tools**: Git, GitHub, VS Code, PyCharm
-- **Areas of Interest**: Cloud Computing, Machine Learning, and Software Development
-
-## 🛠️ Projects
-Here are some of the cool projects I’m working on:
-- 🌐 [Cloud Intrusion Detection System](https://github.com/Deeptig9138/Cloud-Intrusion-Detection-System): A system that monitors cloud infrastructure for anomalies and sends alerts.
-- 🧮 [Simple Calculator](https://github.com/Deeptig9138/Simple-Calculator): A basic calculator implemented in Python.
-
-## 📈 GitHub Stats
-![Deepti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/deepti-gupta-9138/)
-- Email: **deeptigupta9138@gmail.com**
+[**LinkedIn**](https://www.linkedin.com/in/deepti-gupta-9138/) • [**GitHub**](https://github.com/Deeptig9138) • [**Contact Me**](mailto:deeptigupta9138@gmail.com)
 
 ---
 
-⭐️ If you like my work, feel free to fork or star my repositories!
+👨🏻‍💻 **About Me**  
+✨ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity  
+⚡ Check out my **Projects** on GitHub  
+🌱 Learning new technologies like **Artifical Intelligence**, **Python**, and **Cloud Computing**  
+📫 How to reach me: Let's connect via [LinkedIn](https://www.linkedin.com/in/deepti-gupta-9138/)  
+👯 I am always open to collaborating on exciting **open-source, web development** projects or **artificial intelligence** initiatives  
+
+---
+
+## 🛠 **Tech Stack / Certifications**
+
+- **Languages**: Python, JavaScript, C++, HTML, CSS, Java, C
+- **Frameworks and Libraries**: Numpy
+- **Tools and Platforms**: AWS, Docker, Git, GitHub
+- **Operating Systems**: Windows, Linux
+- **Certifications**: Python Essentials, Google AI Essentials, Google Cybersecurity, Microsoft Azure AI Fundamentals: AI Overview, Introduction to CIP, 
+User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk, Fortinet Certified Associate in Cybersecurity, Flipkart GRID 6.0 - Software Development Track, Artificial Intelligence Fundamentals, TATA Crucible Campus Quiz 2024, Secure Storage Associate, Email Security Associate.
+
+---
+
+## ⚙️ **GitHub Analytics**
+
+![Deepti Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptig9138&layout=compact&theme=radical)
+
+---
+
+## 📚 **Recent Projects / Activity**
+
+✨ [**Cloud Intrusion Detection System**](#) | Security project using AWS  
+✨ [**Speed Typing Test**](#) | A basic project to increase typing speed  
+✨ [**Simple Python Calculator**](#) | A basic calculator built with Python 
+
+---
+
+## 📊 **This Week I Spent My Time On**
+
+🕑 Time Zone: Asia/Surat
+
+💬 Programming Languages:  
+- Python: 60%  
+- JavaScript: 30%  
+- HTML/CSS: 10%
+
+🔥 Editors:  
+- VS Code: 100%
+
+---
+
+## 🤝 **Want to Collaborate?**
+
+I’m always open to exciting collaboration opportunities in **software development** and **cybersecurity**. Let’s build something great together!  
+📧 Feel free to reach out: (mailto:deeptigupta9138@gmail.com)
+📧 Feel free to reach out: (linkedin:[deeptigupta9138@gmail.com](https://www.linkedin.com/in/deepti-gupta-9138/))
+
+⭐️ **Show some love by starring my repositories!**
 
