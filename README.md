@@ -5,58 +5,43 @@
 ---
 
 👨🏻‍💻 **About Me**  
-✨ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity  
-⚡ Check out my **Projects** on GitHub  
-🌱 Learning new technologies like **Artificial Intelligence**, **Python**, and **Cloud Computing**  
-📫 How to reach me: Let's connect via [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)  
-👯 I am always open to collaborating on exciting **open-source, web development** projects or **artificial intelligence** initiatives  
+Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity  
+🌟 Exploring **AI**, **Python**, and **Cloud Computing**  
+🚀 Check out my **Projects** on GitHub  
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)!  
+👯 Open to collaborating on **open-source** projects and **AI initiatives**
 
 ---
 
 ## 🛠 **Tech Stack / Certifications**
 
-- **Languages**: Python, JavaScript, C++, HTML, CSS, Java, C
-- **Frameworks and Libraries**: Numpy
-- **Tools and Platforms**: AWS, Git, GitHub
-- **Operating Systems**: Windows, Linux
-- **Certifications**: Python Essentials, Google AI Essentials, Google Cybersecurity, Microsoft Azure AI Fundamentals: AI Overview, Introduction to CIP, User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk, Fortinet Certified Associate in Cybersecurity, Flipkart GRID 6.0 - Software Development Track, Artificial Intelligence Fundamentals, TATA Crucible Campus Quiz 2024, Secure Storage Associate, Email Security Associate.
+- **Languages**: Python, JavaScript, C++, Java, HTML, CSS
+- **Tools**: AWS, Git, GitHub
+- **Certifications**: Google AI Essentials, Microsoft Azure AI Fundamentals, Cybersecurity, Linux, Splunk
 
 ---
 
-## ⚙️ **GitHub Analytics**
+## ⚙️ **GitHub Stats**
 
 ![Deepti Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptig9138&layout=compact&theme=radical)
 
 ---
 
-## 📚 **Recent Projects / Activity**
+## 📚 **Recent Projects**
 
-✨ [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System) | Security project using AWS  
-✨ [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test) | A basic project to increase typing speed  
-✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator) | A basic calculator built with Python 
-
----
-
-## 📊 **This Week I Spent My Time On**
-
-💬 Programming Languages:  
-- Python: 60%  
-- JavaScript: 30%  
-- HTML/CSS: 10%
-
-🔥 Editors:  
-- VS Code: 100%
+✨ [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
+✨ [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
+✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator)
 
 ---
 
-## 🤝 **Want to Collaborate?**
+## 🤝 **Let's Collaborate!**
 
-I’m always open to exciting collaboration opportunities in **software development** and **cybersecurity**. Let’s build something great together!  
-📧 Feel free to reach out via [Email](mailto:deeptigupta9138@gmail.com)  
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)
+Reach me at [Email](mailto:deeptigupta9138@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)!
 
-⭐️ **Show some love by starring my repositories!**
+⭐️ **Support by starring my repositories!**
+
 
 
 
