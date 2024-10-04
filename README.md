@@ -17,7 +17,7 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity
 
 - **Languages**: Python, JavaScript, C++, Java, HTML, CSS
 - **Tools**: AWS, Git, GitHub
-- **Certifications**: Google AI Essentials, Microsoft Azure AI Fundamentals, Cybersecurity, Linux, Splunk
+- **Certifications**: Python Essentials, Google AI Essentials, Google Cybersecurity, Microsoft Azure AI Fundamentals: AI Overview, Introduction to CIP, User Experience Design Fundamentals, OSINT, NDG Linux Unhatched, Intro to Splunk, Fortinet Certified Associate in Cybersecurity, Flipkart GRID 6.0 - Software Development Track, Artificial Intelligence Fundamentals, TATA Crucible Campus Quiz 2024, Secure Storage Associate, Email Security Associate.
 
 ---
 
