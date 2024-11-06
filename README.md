@@ -33,7 +33,7 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity
 ✨ [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
 ✨ [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
 ✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator)
-✨ [**DSA in CPP**](https://github.com/Deeptig9138/Calculator)
+✨ [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)
 
 ---
 
