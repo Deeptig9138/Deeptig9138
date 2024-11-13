@@ -53,8 +53,6 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity A
   *A fun and interactive typing speed test to improve your typing skills.*
 - ✨ [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator)  
   *A basic calculator built in Python with a user-friendly interface.*
-- ✨ [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
-  *A repository of Data Structures and Algorithms implemented in C++ for learning and practice.*
 
 ---
 
@@ -62,7 +60,7 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity A
 
 - ✨ [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
   *A repository of Data Structures and Algorithms implemented in C++ for learning and practice.*
-- ✨ [**Introduction-to-Cyber-Security---TryHackMe**](https://github.com/Deeptig9138/Speed-Typing-Test)  
+- ✨ [**Introduction-to-Cyber-Security---TryHackMe**](https://github.com/Deeptig9138/Introduction-to-Cyber-Security---TryHackMe)
   *A fun and interactive typing speed test to improve your typing skills.*
 
 ---
