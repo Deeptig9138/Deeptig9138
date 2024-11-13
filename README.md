@@ -61,7 +61,7 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity A
 - ✨ [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
   *A repository of Data Structures and Algorithms implemented in C++ for learning and practice.*
 - ✨ [**Introduction-to-Cyber-Security---TryHackMe**](https://github.com/Deeptig9138/Introduction-to-Cyber-Security---TryHackMe)
-  *A fun and interactive typing speed test to improve your typing skills.*
+  *Get started in cyber security by hacking your first application and defending against a live cyber attack in a simulated lab environment.*
 
 ---
 
