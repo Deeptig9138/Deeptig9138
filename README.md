@@ -58,6 +58,15 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity A
 
 ---
 
+## 📚 **Cuurently Working On!**
+
+- ✨ [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
+  *A repository of Data Structures and Algorithms implemented in C++ for learning and practice.*
+- ✨ [**Introduction-to-Cyber-Security---TryHackMe**](https://github.com/Deeptig9138/Speed-Typing-Test)  
+  *A fun and interactive typing speed test to improve your typing skills.*
+
+---
+
 ## 🤝 **Let's Collaborate!**
 
 🌐 Reach out via [Email](mailto:deeptigupta9138@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/).  
@@ -65,7 +74,4 @@ Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity A
 
 ⭐️ **Support my work by starring my repositories and following me for updates!**
 
-
-
-
-
+---
