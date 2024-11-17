@@ -15,13 +15,9 @@
 ---
 
 ## 🛠 **Tech Stack & Certifications**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ### 💻 **Languages**
-- 🐍 Python | 🌐 JavaScript | 💻 C++ | ☕ Java | 🌟 HTML | 🎨 CSS
+- 🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 🌐 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 💻 C++ | ☕ Java | 🌟 HTML | 🎨 CSS
 
 ### ☁️ **Cloud & DevOps**
 - ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker 
