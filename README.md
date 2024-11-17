@@ -5,7 +5,7 @@
 ---
 
 👨🏻‍💻 **About Me**  
-Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity Advocate  
+Aspiring Software Engineer | Cloud Enthusiast | Problem Solver | Cybersecurity Student
 🌟 Passionate about **AI**, **Python**, and **Cloud Computing**  
 🚀 Explore my diverse **Projects** on GitHub  
 📫 Let's build professional connections on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)!  
