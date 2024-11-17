@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 **About Me**  
-🌟 Aspiring **Software Engineer** | **Cloud Enthusiast** | **Problem Solver** | **Cybersecurity Advocate**  
+🌟 Aspiring **Software Engineer** | **Cloud Enthusiast** | **Problem Solver** | **Cybersecurity Student**  
 💡 Passionate about **AI**, **Python**, and **Cloud Computing**  
 🚀 Check out my **Projects** on [GitHub](https://github.com/Deeptig9138)!  
 🤝 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)!  
@@ -19,11 +19,8 @@
 ### 💻 **Languages**
 - 🐍 Python | 🌐 JavaScript | 💻 C++ | ☕ Java | 🌟 HTML | 🎨 CSS
 
-### 🌈 **Frameworks & Libraries**
-- 🛠️ Node.js | ⚛️ React *(add if applicable)*
-
 ### ☁️ **Cloud & DevOps**
-- ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker *(expand if applicable)*
+- ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker 
 
 ### 🛠️ **Tools & Platforms**
 - 🌀 Git | 🐙 GitHub | 🔮 VS Code | 🐧 Linux
