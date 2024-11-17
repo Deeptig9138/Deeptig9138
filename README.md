@@ -65,6 +65,13 @@
 
 ---
 
+## 💡 **Repositories for Educational Purposes**
+
+- 🚀 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DSA-in-CPP)  
+  *Introductory room for the DFIR module*
+
+---
+
 ## 🤝 **Let's Collaborate!**
 
 🌐 Connect via [Email](mailto:deeptigupta9138@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/).  
