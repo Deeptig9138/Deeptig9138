@@ -33,8 +33,8 @@
 - 🎓 *OSINT*
 - 🎓 *NDG Linux Unhatched*
 - 🎓 *Intro to Splunk*
-- 🎓 *Flipkart GRID 6.0 - Software Development Track*
-- 🎓 *TATA Crucible Campus Quiz 2024*
+- 🎓 *Google Digital Marketing and E-commerce*
+- 🎓 *Flipkart GRID 6.0 - Software Development Track* | 🎓 *TATA Crucible Campus Quiz 2024* | 🎓 *SAWIT.AI Learnathon*
 
 ---
 
