@@ -67,7 +67,7 @@
 
 ## 💡 **Repositories for Educational Purposes**
 
-- 🚀 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DSA-in-CPP](https://github.com/Deeptig9138/DFIR-An-Introduction) 
+- 🚀 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction) 
   *Introductory room for the DFIR module*
 
 ---
