@@ -41,8 +41,6 @@
 ## ⚙️ **GitHub Stats**
 
 ![Deepti Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptig9138&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deeptig9138&theme=tokyonight)   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deeptig9138&theme=onedark)
 
 ---
