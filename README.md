@@ -23,23 +23,18 @@
 - ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker 
 
 ### 🛠️ **Tools & Platforms**
-- 🌀 Git | 🐙 GitHub | 🔮 VS Code | 🐧 Linux
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🏅 **Certifications**
-- 🎓 *Python Essentials*
-- 🎓 *Google AI Essentials*
-- 🎓 *Google Cybersecurity*
-- 🎓 *Microsoft Azure AI Fundamentals: AI Overview*
+- 🎓 *Python Essentials*  
+- 🎓 *Google AI Essentials* | 🎓 *Microsoft Azure AI Fundamentals: AI Overview* | 🎓 *Artificial Intelligence Fundamentals*
+- 🎓 *Google Cybersecurity* | 🎓 *Fortinet Certified Associate in Cybersecurity* | 🎓 *Cybersecurity Certification*
 - 🎓 *User Experience Design Fundamentals*
 - 🎓 *OSINT*
 - 🎓 *NDG Linux Unhatched*
 - 🎓 *Intro to Splunk*
-- 🎓 *Fortinet Certified Associate in Cybersecurity*
 - 🎓 *Flipkart GRID 6.0 - Software Development Track*
-- 🎓 *Artificial Intelligence Fundamentals*
 - 🎓 *TATA Crucible Campus Quiz 2024*
-- 🎓 *Secure Storage Associate*
-- 🎓 *Email Security Associate*
 
 ---
 
