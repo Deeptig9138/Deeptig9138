@@ -67,7 +67,7 @@
 
 ## ✨ **Repositories for Educational Purposes**
 
-- 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction) (work in progress)
+- 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction)
   *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
 
 ---
