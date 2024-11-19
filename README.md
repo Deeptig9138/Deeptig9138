@@ -70,7 +70,7 @@
 - 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction)  
   *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
 
-- 🎉 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
+- 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
   *A beginner-friendly repository offering an introduction to Pentesting Fundamentals.*
 
 ---
