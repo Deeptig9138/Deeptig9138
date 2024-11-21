@@ -64,7 +64,7 @@
   *A collection of Data Structures and Algorithms in C++ for learning and practice.*
 
 - 🚀 [**Linux Fundamentals**](  https://github.com/Deeptig9138/Linux-Fundamentals)  
-  *Linux is an indispensable tool and system in the field of cybersecurity. This covers the essentials for starting with the Linux operating system and terminal.*
+  *This covers the essentials for starting with the Linux operating system and terminal.*
 
 ---
 
