@@ -63,6 +63,9 @@
 - 🚀 [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
   *A collection of Data Structures and Algorithms in C++ for learning and practice.*
 
+- 🚀 [**Linux Fundamentals**](  https://github.com/Deeptig9138/Linux-Fundamentals)  
+  *Linux is an indispensable tool and system in the field of cybersecurity. This covers the essentials for starting with the Linux operating system and terminal.*
+
 ---
 
 ## 💡 **Repositories for Educational Purposes** 
@@ -71,7 +74,7 @@
   *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
 
 - 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
-  *A beginner-friendly repository offering an introduction to Pentesting Fundamentals.*
+  *A beginners guide to introduction to Pentesting Fundamentals.*
 
 ---
 
