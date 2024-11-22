@@ -84,5 +84,3 @@
 💬 Open to innovative project collaborations, tech discussions, and coding challenges!
 
 ⭐️ **Support my work by starring my repositories and following me for updates!** 🌈✨
-
----
