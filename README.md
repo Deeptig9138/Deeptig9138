@@ -1,6 +1,8 @@
 # 💖 Hi there, I'm **Deepti Gupta**! 👋✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti-gupta-775736289/) [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/Deeptig9138) [![Email](https://img.shields.io/badge/Contact%20Me-PurpleRed?style=flat&logo=gmail&logoColor=white)](mailto:deeptigupta9138@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti-gupta-775736289/) 
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/Deeptig9138) 
+[![Email](https://img.shields.io/badge/Contact%20Me-PurpleRed?style=flat&logo=gmail&logoColor=white)](mailto:deeptigupta9138@gmail.com)
 
 ---
 
@@ -17,13 +19,21 @@
 ## 🛠 **Tech Stack & Certifications**
 
 ### 💻 **Languages**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 - ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker 
 
 ### 🛠️ **Tools & Platforms**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🏅 **Certifications**
 - 🎓 *Python Essentials*  
@@ -47,6 +57,9 @@
 
 ## 🌟 **Highlighted Projects**
 
+- 📝 [**Sentiment Analysis Project**](https://github.com/Deeptig9138/Sentiment-Analysis-Project)  
+  *Analyze and visualize customer sentiments from product reviews with preprocessing, visualization, and ML modeling.*
+
 - 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
   *A comprehensive solution for detecting potential intrusions in cloud environments.*
 
@@ -63,7 +76,7 @@
 - 🚀 [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
   *A collection of Data Structures and Algorithms in C++ for learning and practice.*
 
-- 🚀 [**Linux Fundamentals**](  https://github.com/Deeptig9138/Linux-Fundamentals)  
+- 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
   *This covers the essentials for starting with the Linux operating system and terminal.*
 
 ---
