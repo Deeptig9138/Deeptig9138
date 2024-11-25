@@ -76,12 +76,12 @@
 - 🚀 [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
   *A collection of Data Structures and Algorithms in C++ for learning and practice.*
 
-- 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
-  *This covers the essentials for starting with the Linux operating system and terminal.*
-
 ---
 
 ## 💡 **Repositories for Educational Purposes** 
+
+- 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
+  *This covers the essentials for starting with the Linux operating system and terminal.*
 
 - 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction)  
   *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
