@@ -64,13 +64,9 @@
 - 🛍️ [**Customer Segmentation Project**](https://github.com/Deeptig9138/customer-segmentation-project)  
   *A data-driven project using KMeans clustering to identify customer segments, featuring an interactive Streamlit dashboard for real-time visualization and insights.*  
 
----
-
 ### 🔒 **Cybersecurity**  
 - 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
   *A comprehensive solution for detecting potential intrusions in cloud environments.*  
-
----
 
 ### 🎮 **Interactive Applications**  
 - 🎉 [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
