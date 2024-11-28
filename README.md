@@ -57,17 +57,24 @@
 
 ## 🌟 **Highlighted Projects**
 
+### 🤖 **Machine Learning and Data Analysis**  
 - 📝 [**Sentiment Analysis Project**](https://github.com/Deeptig9138/Sentiment-Analysis-Project)  
-  *Analyze and visualize customer sentiments from product reviews with preprocessing, visualization, and ML modeling.*
-
-- 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
-  *A comprehensive solution for detecting potential intrusions in cloud environments.*
+  *Analyze and visualize customer sentiments from product reviews with preprocessing, visualization, and ML modeling.*  
 
 - 🛍️ [**Customer Segmentation Project**](https://github.com/Deeptig9138/customer-segmentation-project)  
-  *A data-driven project using KMeans clustering to identify customer segments, featuring an interactive Streamlit dashboard for real-time visualization and insights.*
+  *A data-driven project using KMeans clustering to identify customer segments, featuring an interactive Streamlit dashboard for real-time visualization and insights.*  
 
+---
+
+### 🔒 **Cybersecurity**  
+- 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
+  *A comprehensive solution for detecting potential intrusions in cloud environments.*  
+
+---
+
+### 🎮 **Interactive Applications**  
 - 🎉 [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
-  *An interactive and fun typing speed test to sharpen your skills.*
+  *An interactive and fun typing speed test to sharpen your skills.* 
 
 ---
 
