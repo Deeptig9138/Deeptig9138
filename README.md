@@ -37,13 +37,13 @@
 
 ### 🏅 **Certifications**
 - 🎓 *Python Essentials*  
-- 🎓 *Google AI Essentials* | 🎓 *Microsoft Azure AI Fundamentals: AI Overview* | 🎓 *Artificial Intelligence Fundamentals*
-- 🎓 *Google Cybersecurity* | 🎓 *Fortinet Certified Associate in Cybersecurity* | 🎓 *Cybersecurity Certification*
-- 🎓 *User Experience Design Fundamentals*
-- 🎓 *OSINT*
-- 🎓 *NDG Linux Unhatched*
-- 🎓 *Intro to Splunk*
-- 🎓 *Google Digital Marketing and E-commerce*
+- 🎓 *Google AI Essentials* | 🎓 *Microsoft Azure AI Fundamentals: AI Overview* | 🎓 *Artificial Intelligence Fundamentals*  
+- 🎓 *Google Cybersecurity* | 🎓 *Fortinet Certified Associate in Cybersecurity* | 🎓 *Cybersecurity Certification*  
+- 🎓 *User Experience Design Fundamentals*  
+- 🎓 *OSINT*  
+- 🎓 *NDG Linux Unhatched*  
+- 🎓 *Intro to Splunk*  
+- 🎓 *Google Digital Marketing and E-commerce*  
 - 🎓 *Flipkart GRID 6.0 - Software Development Track* | 🎓 *TATA Crucible Campus Quiz 2024* | 🎓 *SAWIT.AI Learnathon*
 
 ---
@@ -63,11 +63,11 @@
 - 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
   *A comprehensive solution for detecting potential intrusions in cloud environments.*
 
+- 🛍️ [**Customer Segmentation Project**](https://github.com/Deeptig9138/customer-segmentation-project)  
+  *A data-driven project using KMeans clustering to identify customer segments, featuring an interactive Streamlit dashboard for real-time visualization and insights.*
+
 - 🎉 [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
   *An interactive and fun typing speed test to sharpen your skills.*
-
-- 🧮 [**Simple Python Calculator**](https://github.com/Deeptig9138/Calculator)  
-  *A user-friendly basic calculator built with Python.*
 
 ---
 
@@ -87,7 +87,7 @@
   *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
 
 - 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
-  *A beginners guide to introduction to Pentesting Fundamentals.*
+  *A beginner's guide to understanding Pentesting fundamentals.*
 
 ---
 
