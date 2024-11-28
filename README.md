@@ -81,16 +81,19 @@
 
 ---
 
-## 💡 **Repositories for Educational Purposes** 
+## 📚 **Repositories for Educational Purposes**  
 
+### 🐧 **Fundamentals**  
 - 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
   *This covers the essentials for starting with the Linux operating system and terminal.*
 
+### 🎉 **Security Analyst** 
 - 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction)  
-  *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*
+  *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*  
 
+### 🔒 **Penetration Tester**  
 - 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
-  *A beginner's guide to understanding Pentesting fundamentals.*
+  *A beginner's guide to understanding Pentesting fundamentals.*  
 
 ---
 
