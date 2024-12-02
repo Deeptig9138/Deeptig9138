@@ -93,7 +93,10 @@
 
 ### 🔒 **Penetration Tester**  
 - 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
-  *A beginner's guide to understanding Pentesting fundamentals.*  
+  *A beginner's guide to understanding Pentesting fundamentals.*
+
+- 🌐 [**Nmap**](https://github.com/Deeptig9138/Nmap)  
+  *Enhance your knowledge of scanning techniques, scripting, and evasion strategies with practical hands-on learning.*
 
 ---
 
