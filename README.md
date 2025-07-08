@@ -38,13 +38,16 @@
 ### 🏅 **Certifications**
 - 🎓 *Python Essentials*  
 - 🎓 *Google AI Essentials* | 🎓 *Microsoft Azure AI Fundamentals: AI Overview* | 🎓 *Artificial Intelligence Fundamentals*  
-- 🎓 *Google Cybersecurity* | 🎓 *Fortinet Certified Associate in Cybersecurity* | 🎓 *Cybersecurity Certification*  
-- 🎓 *User Experience Design Fundamentals*  
+- 🎓 *Google Cybersecurity* | 🎓 *Fortinet Certified Associate in Cybersecurity* | 🎓 *Cybersecurity Certification*
+- 🎓 *Cyber Threat Hunting* | 🎓 *Advent of Cyber 2024* 
+- 🎓 *Digital Forensics Essentials*
+- 🎓 *Blockchain and its Applications*
 - 🎓 *OSINT*  
 - 🎓 *NDG Linux Unhatched*  
 - 🎓 *Intro to Splunk*  
-- 🎓 *Google Digital Marketing and E-commerce*  
-- 🎓 *Flipkart GRID 6.0 - Software Development Track* | 🎓 *TATA Crucible Campus Quiz 2024* | 🎓 *SAWIT.AI Learnathon*
+- 🎓 *User Experience Design Fundamentals*  
+- 🎓 *Google Digital Marketing and E-commerce* 
+- 🎓 *Flipkart GRID 6.0 - Software Development Track* | 🎓 *TATA Crucible Campus Quiz 2024* | 🎓 *SAWIT.AI Learnathon* | 🎓 *Blockchain and its Applications* | 🎓 *Nestle E-Learning 2025 | Sustainability* 
 
 ---
 
@@ -82,6 +85,10 @@
 ---
 
 ## 📚 **Repositories for Educational Purposes**  
+
+### 📚 **Certifications** 
+- 🌐 [**CEH V.12**]()  
+  *A curated collection of notes, scripts, lab walkthroughs, and ethical practices based on the CEH v12 course by Packt on Coursera.*  
 
 ### 🐧 **Fundamentals**  
 - 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
