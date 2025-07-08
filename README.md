@@ -1,39 +1,40 @@
-# 💖 Hi there, I'm **Deepti Gupta**! 👋✨
+# 👋 Hey there, I'm **Deepti Gupta**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti-gupta-775736289/) 
-[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/Deeptig9138) 
-[![Email](https://img.shields.io/badge/Contact%20Me-PurpleRed?style=flat&logo=gmail&logoColor=white)](mailto:deeptigupta9138@gmail.com)
-
----
-
-## 👩‍💻 **About Me**  
-🌟 Aspiring **Software Engineer** | **Cloud Enthusiast** | **Problem Solver** | **Cybersecurity Student**  
-💡 Passionate about **AI**, **Python**, and **Cloud Computing**  
-🚀 Check out my **Projects** on [GitHub](https://github.com/Deeptig9138)!  
-🤝 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)!  
-👯 Excited to contribute to **open-source** projects and **AI initiatives**  
-📚 Always learning and sharing knowledge!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti-gupta-775736289/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deeptig9138)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deeptigupta9138@gmail.com)
 
 ---
 
-## 🛠 **Tech Stack & Certifications**
+## 🧑‍💻 About Me
 
-### 💻 **Languages**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🚀 **Aspiring Software Engineer** | 🌐 **Cybersecurity Enthusiast**  
+🧠 Exploring **AI**, **Cloud Computing**, and **Security Research**  
+💡 Passionate about **problem solving** and continuous learning  
+🤝 Open to collaborations in **open source**, **AI/ML**, and **CTFs**
 
-### ☁️ **Cloud & DevOps**
-- ☁️ AWS | ☁️ Microsoft Azure | 🐳 Docker 
+---
 
-### 🛠️ **Tools & Platforms**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## ⚒️ Tech Stack & Tools
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Cloud & DevOps:**  
+☁️ AWS · Azure · Docker  
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+---
 
 ### 🏅 **Certifications**
 - 🎓 *Python Essentials*  
@@ -51,65 +52,67 @@
 
 ---
 
-## ⚙️ **GitHub Stats**
+## 🔍 Featured Projects
 
-![Deepti Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deeptig9138&theme=onedark)
+### 💡 Data & AI  
+- [🧠 Sentiment Analysis](https://github.com/Deeptig9138/Sentiment-Analysis-Project)  
+  *ML pipeline to analyze and classify customer sentiment.*
 
----
+- [📊 Customer Segmentation](https://github.com/Deeptig9138/customer-segmentation-project)  
+  *KMeans-based segmentation with an interactive Streamlit dashboard.*
 
-## 🌟 **Highlighted Projects**
+### 🔐 Cybersecurity  
+- [☁️ Cloud Intrusion Detection System](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
+  *Real-time anomaly detection in cloud environments.*
 
-### 🤖 **Machine Learning and Data Analysis**  
-- 📝 [**Sentiment Analysis Project**](https://github.com/Deeptig9138/Sentiment-Analysis-Project)  
-  *Analyze and visualize customer sentiments from product reviews with preprocessing, visualization, and ML modeling.*  
-
-- 🛍️ [**Customer Segmentation Project**](https://github.com/Deeptig9138/customer-segmentation-project)  
-  *A data-driven project using KMeans clustering to identify customer segments, featuring an interactive Streamlit dashboard for real-time visualization and insights.*  
-
-### 🔒 **Cybersecurity**  
-- 💜 [**Cloud Intrusion Detection System**](https://github.com/Deeptig9138/Cloud_Intrusion_Detection_System)  
-  *A comprehensive solution for detecting potential intrusions in cloud environments.*  
-
-### 🎮 **Interactive Applications**  
-- 🎉 [**Speed Typing Test**](https://github.com/Deeptig9138/Speed-Typing-Test)  
-  *An interactive and fun typing speed test to sharpen your skills.* 
+### 🎮 Fun & Utility  
+- [⌨️ Speed Typing Test](https://github.com/Deeptig9138/Speed-Typing-Test)  
+  *A fun typing test game to practice and benchmark typing speed.*
 
 ---
 
-## 💡 **Currently Working On**
+## 🧩 Currently Building
 
-- 🚀 [**DSA in CPP**](https://github.com/Deeptig9138/DSA-in-CPP)  
-  *A collection of Data Structures and Algorithms in C++ for learning and practice.*
-
----
-
-## 📚 **Repositories for Educational Purposes**  
-
-### 📚 **Certifications** 
-- 🌐 [**CEH V.12**]()  
-  *A curated collection of notes, scripts, lab walkthroughs, and ethical practices based on the CEH v12 course by Packt on Coursera.*  
-
-### 🐧 **Fundamentals**  
-- 🚀 [**Linux Fundamentals**](https://github.com/Deeptig9138/Linux-Fundamentals)  
-  *This covers the essentials for starting with the Linux operating system and terminal.*
-
-### 🎉 **Security Analyst** 
-- 📚 [**DFIR: An Introduction**](https://github.com/Deeptig9138/DFIR-An-Introduction)  
-  *A beginner-friendly repository offering an introduction to Digital Forensics and Incident Response (DFIR) concepts.*  
-
-### 🔒 **Penetration Tester**  
-- 🔒 [**Pentesting-Fundamentals**](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
-  *A beginner's guide to understanding Pentesting fundamentals.*
-
-- 🌐 [**Nmap**](https://github.com/Deeptig9138/Nmap)  
-  *Enhance your knowledge of scanning techniques, scripting, and evasion strategies with practical hands-on learning.*
+- [📘 DSA in C++](https://github.com/Deeptig9138/DSA-in-CPP) — Data Structures & Algorithms  
+- [🛡️ CEH v12 Labs & Notes](https://github.com/Deeptig9138/CEH-V.12) — Ethical Hacking Repository
 
 ---
 
-## 🤝 **Let's Collaborate!**
+## 📚 Repositories for Educational Purposes
 
-🌐 Connect via [Email](mailto:deeptigupta9138@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/).  
-💬 Open to innovative project collaborations, tech discussions, and coding challenges!
+### 🎓 Certifications  
+- [🛡️ CEH v12 Learning Repo](https://github.com/Deeptig9138/CEH-V.12)  
+  *Ethical hacking notes, walkthroughs, and tools.*
 
-⭐️ **Support my work by starring my repositories and following me for updates!** 🌈✨
+### 🐧 Fundamentals  
+- [📂 Linux Basics](https://github.com/Deeptig9138/Linux-Fundamentals)  
+  *Command-line, permissions, and shell scripting essentials.*
+
+### 🕵️ Security Analyst  
+- [🔍 DFIR Intro](https://github.com/Deeptig9138/DFIR-An-Introduction)  
+  *Fundamentals of Digital Forensics & Incident Response.*
+
+### 🛠️ Penetration Testing  
+- [🧪 Pentesting Fundamentals](https://github.com/Deeptig9138/Pentesting-Fundamentals)  
+- [🌐 Nmap Hands-on](https://github.com/Deeptig9138/Nmap)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Deeptig9138&theme=onedark" height="150"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect!
+
+📫 Reach out via [Email](mailto:deeptigupta9138@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)  
+⭐ Star and follow to support my journey — it means the world!  
+💬 Open to tech talks, collaborations, internships, and remote work opportunities.
+
+---
+
+_Thanks for stopping by! Stay curious & keep building 🚀_
