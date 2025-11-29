@@ -1,5 +1,3 @@
-<!-- 🌸 Anime-style GitHub README -->
-
 <p align="center">
   <img src="https://github.com/Deeptig9138/Deeptig9138/blob/main/images/hello.avif" width="400"/>
 </p>
