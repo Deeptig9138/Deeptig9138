@@ -52,11 +52,11 @@
 ## 💎 Featured Projects
 
 ### 🤖 AI & Machine Learning
-- [🧠 Sentiment Analysis](https://github.com/Deeptig9138/Sentiment-Analysis-Project) — ML pipeline to classify customer sentiment  
-- [📊 Customer Segmentation](https://github.com/Deeptig9138/customer-segmentation-project) — KMeans segmentation with interactive Streamlit dashboard  
+- [Sentiment Analysis](https://github.com/Deeptig9138/Sentiment-Analysis-Project) — ML pipeline to classify customer sentiment  
+- [Customer Segmentation](https://github.com/Deeptig9138/customer-segmentation-project) — KMeans segmentation with interactive Streamlit dashboard  
 
 ### 🌱 Cybersecurity Learning
-- [CyberSecurity101-THM](https://github.com/Deeptig9138/CyberSecurity101-THM) — Introductory cyber learning path  
+- [CyberSecurity101-THM](https://github.com/Deeptig9138/CyberSecurity101---THM) — Introductory cyber learning path  
 - [Cisco-community-web](https://github.com/Deeptig9138/Cisco-community-web) — Networking & community platform  
 
 ### 🛡️ Pentesting & Security Tools
@@ -81,7 +81,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeptig9138&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Deeptig9138&theme=onedark" height="150"/>
 </p>
 
