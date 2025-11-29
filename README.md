@@ -1,13 +1,13 @@
 <!-- 🌸 Anime-style GitHub README -->
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fanime-cyber-security%2F3&psig=AOvVaw0Q5IKMnG093o6ciZQqpU0M&ust=1764479507312000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJD0upTPlpEDFQAAAAAdAAAAABAE" width="400"/>
+  <img src="https://github.com/Deeptig9138/Deeptig9138/blob/main/images/hello.avif" width="400"/>
 </p>
 
-<h1 align="center">👋 Hey there, I'm Deepti Gupta</h1>
+<h1 align="center">🌟 Deepti-chan reporting for cloud sec-adventures & AI magic!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepti-gupta-775736289/">
+  <a href="https://www.linkedin.com/in/-deepti-gupta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Deeptig9138">
@@ -56,8 +56,7 @@
 - [📊 Customer Segmentation](https://github.com/Deeptig9138/customer-segmentation-project) — KMeans segmentation with interactive Streamlit dashboard  
 
 ### 🌱 Cybersecurity Learning
-- [CyberSecurity101](https://github.com/Deeptig9138/CyberSecurity101) — Introductory cyber learning path  
-- [THM](https://github.com/Deeptig9138/THM) — HackTheBox / TryHackMe exercises  
+- [CyberSecurity101-THM](https://github.com/Deeptig9138/CyberSecurity101-THM) — Introductory cyber learning path  
 - [Cisco-community-web](https://github.com/Deeptig9138/Cisco-community-web) — Networking & community platform  
 
 ### 🛡️ Pentesting & Security Tools
@@ -73,7 +72,6 @@
 ---
 
 ## ✨ Currently Building / Learning
-- CEH v12 Labs & Notes — Ethical hacking & penetration testing practice  
 - Cloud Security Projects — Hands-on cloud defense & monitoring setups  
 - AI/ML Pipelines & Projects — Applied machine learning workflows  
 - Threat Hunting & DFIR Exercises — Enhancing incident response skills  
