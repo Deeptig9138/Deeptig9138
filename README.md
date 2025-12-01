@@ -63,7 +63,6 @@
 - [DFIR-An-Introduction](https://github.com/Deeptig9138/DFIR-An-Introduction) — Digital forensics & incident response basics  
 
 ### 💻 Programming & Learning
-- [Leetcode](https://github.com/Deeptig9138/Leetcode) — Problem-solving practice  
 - [DSA in CPP](https://github.com/Deeptig9138/DSA-in-CPP) — Learning data structures & algorithms  
 - [Linux-Fundamentals](https://github.com/Deeptig9138/Linux-Fundamentals) — Essential Linux commands & scripting  
 
