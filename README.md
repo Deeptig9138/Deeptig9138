@@ -55,7 +55,8 @@
 
 ### 🌱 Cybersecurity Learning
 - [CyberSecurity101-THM](https://github.com/Deeptig9138/CyberSecurity101---THM) — Introductory cyber learning path  
-- [Cisco-community-web](https://github.com/Deeptig9138/Cisco-community-web) — Networking & community platform  
+- [Cisco-community-web](https://github.com/Deeptig9138/Cisco-community-web) — Networking & community platform
+- [Advent-Of-Cyber-2025](https://github.com/Deeptig9138/Advent-Of-Cyber-2025) - Fun way to learn & experience CTF
 
 ### 🛡️ Pentesting & Security Tools
 - [Nmap](https://github.com/Deeptig9138/Nmap) — Network scanning practice & exercises  
