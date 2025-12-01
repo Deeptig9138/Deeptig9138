@@ -64,7 +64,7 @@
 
 ### 💻 Programming & Learning
 - [Leetcode](https://github.com/Deeptig9138/Leetcode) — Problem-solving practice  
-- [DSA in Python](https://github.com/Deeptig9138/DSA-in-Python) — Learning data structures & algorithms  
+- [DSA in CPP](https://github.com/Deeptig9138/DSA-in-CPP) — Learning data structures & algorithms  
 - [Linux-Fundamentals](https://github.com/Deeptig9138/Linux-Fundamentals) — Essential Linux commands & scripting  
 
 ---
