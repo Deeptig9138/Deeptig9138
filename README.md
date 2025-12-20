@@ -76,14 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deeptig9138&theme=onedark" height="150"/>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 📫 Reach out via [Email](mailto:deeptigupta9138@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deepti-gupta-775736289/)  
