@@ -54,7 +54,6 @@
 - [Customer Segmentation](https://github.com/Deeptig9138/customer-segmentation-project) — KMeans segmentation with interactive Streamlit dashboard  
 
 ### 🌱 Cybersecurity Learning
-- [Pre Security-THM](https://github.com/Deeptig9138/Pre-Security-THM) - Computer Science Basics
 - [CyberSecurity101-THM](https://github.com/Deeptig9138/CyberSecurity101---THM) — Introductory cyber learning path  
 - [Cisco-community-web](https://github.com/Deeptig9138/Cisco-community-web) — Networking & community platform
 
